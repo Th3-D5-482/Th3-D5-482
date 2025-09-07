@@ -17,8 +17,6 @@ It anticipates needs, communicates clearly, and leaves room for growth.
 
 ## 🛠️ Technologies I Work With
 
-<h3>🧠 Tech Stack</h3>
-
 <!-- Frontend -->
 <h4>Frontend</h4>
 <p align="left">
