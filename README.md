@@ -77,4 +77,4 @@ Thanks for stopping by.
 Feel free to explore my repositories, peek into my code, and see how I think through problems.  
 Whether you're here to collaborate, learn, or just browse—you're always welcome.
 
-> “Software should be built like a good conversation: clear, respectful, and open to change.”
+> "A Good software should feel like a helpful friend — easy to talk to, always there when you need it."
